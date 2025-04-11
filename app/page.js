@@ -1,10 +1,7 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <main>
-      <h1>Exploring git branching </h1>
-      <h1>Exploring git branching </h1>
+      <div>This is new home page</div>
     </main>
   );
 }
