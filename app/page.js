@@ -4,6 +4,7 @@ export default function Home() {
   return (
     <main>
       <h1>Exploring git branching </h1>
+      <h1>Exploring git branching </h1>
     </main>
   );
 }
